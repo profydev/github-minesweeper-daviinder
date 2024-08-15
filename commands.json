@@ -1,8 +1,12 @@
 {
   "commands": [
+<<<<<<< HEAD
     "clear A8",
     "flag C3",
     "flag D2",
     "clear H9"
+=======
+    "clear A8"
+>>>>>>> 2787ccaae8b7425ae62b0ec04035d4196adc9306
   ]
 }
