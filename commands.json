@@ -1,6 +1,7 @@
 {
-  "commands": [],
-  "flag C3",
-  "flag D2",
-  "clear H9"
+  "commands": [
+    "flag C3",
+    "flag D2",
+    "clear H9"
+  ]
 }
